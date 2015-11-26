@@ -1,0 +1,1 @@
+regedit /e c:\reg_backup.reg

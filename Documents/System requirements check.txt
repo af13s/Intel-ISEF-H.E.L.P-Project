@@ -1,0 +1,7 @@
+Needed information
+
+ram 1 GB
+processor 1 GHz
+direct x 9 compliant video card
+
+operating system

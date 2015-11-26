@@ -1,0 +1,1 @@
+Shell("cmd /c echo Y | chkdsk c: /f/r", AppWinStyle.NormalFocus, True)

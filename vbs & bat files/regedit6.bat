@@ -1,0 +1,1 @@
+reg add "hklm\System\CurrentControlSet\Control\Lsa" /v RestrictAnonymous /t REG_DWORD /d 2
